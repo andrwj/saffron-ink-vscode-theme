@@ -21,7 +21,11 @@ Saffron Ink is based on `Github Light Theme - Gray` from the Visual Studio Code 
 
 ## Installation
 
-Search for `Saffron Ink` in the Visual Studio Code Extensions view, then select **Install**.
+Install Saffron Ink from the Visual Studio Code Marketplace:
+
+https://marketplace.visualstudio.com/items?itemName=andrwj.saffron-ink
+
+You can also search for `Saffron Ink` in the Visual Studio Code Extensions view, then select **Install**.
 
 After installation, open the Command Palette and run:
 
