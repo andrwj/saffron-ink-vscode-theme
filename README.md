@@ -14,11 +14,10 @@ Saffron Ink is based on `Github Light Theme - Gray` from the Visual Studio Code 
 
 ## Features
 
-- Warm light editor background with strong text contrast.
-- Dark, readable Markdown and code token colors.
-- High-visibility selection colors tuned for the saffron palette.
-- Subtle workbench borders and scrollbar styling.
-- Compact workbench density by default.
+- Slightly darker background than the original theme, with stronger text contrast.
+- Selection and cursor colors with a small pop of emphasis.
+- Removed border radius across major UI areas.
+- Scrollbar color tuned to be 3% darker than the background.
 
 ## Installation
 
