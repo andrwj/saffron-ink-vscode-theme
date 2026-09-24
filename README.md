@@ -4,7 +4,7 @@ A warm, high-contrast light theme for Visual Studio Code, inspired by saffron pa
 
 Saffron Ink is designed for long reading and writing sessions: a soft paper-toned editor background, dark readable text, restrained UI chrome, and clear selection feedback.
 
-Saffron Ink is based on `Github Light Theme - Gray` from the Visual Studio Code extension `hyzeta.vscode-theme-github-light`.
+Saffron Ink is based on `Github Light Theme - Gray` from the Visual Studio Code extension [`hyzeta.vscode-theme-github-light`](https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light).
 
 ## Preview
 
@@ -65,7 +65,7 @@ https://github.com/andrwj/saffron-ink-vscode-theme
 
 ## Credits
 
-Saffron Ink is derived from `Github Light Theme - Gray`, distributed as part of the `hyzeta.vscode-theme-github-light` Visual Studio Code extension.
+Saffron Ink is derived from `Github Light Theme - Gray`, distributed as part of the [`hyzeta.vscode-theme-github-light`](https://marketplace.visualstudio.com/items?itemName=Hyzeta.vscode-theme-github-light) Visual Studio Code extension.
 
 The original theme license notice is preserved in this repository. The original MIT license identifies:
 
