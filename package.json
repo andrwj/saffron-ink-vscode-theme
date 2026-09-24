@@ -1,0 +1,40 @@
+{
+  "name": "saffron-ink",
+  "displayName": "Saffron Ink",
+  "description": "A warm, high-contrast VS Code light theme with a saffron paper palette.",
+  "version": "0.2.1",
+  "publisher": "andrwj",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "light",
+    "github",
+    "saffron",
+    "ink",
+    "saffron-ink"
+  ],
+  "contributes": {
+    "configurationDefaults": {
+      "window.density.layout": "compact"
+    },
+    "themes": [
+      {
+        "label": "Saffron Ink",
+        "uiTheme": "vs",
+        "path": "./themes/saffron-ink-color-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "package": "vsce package"
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^4.0.0"
+  }
+}
